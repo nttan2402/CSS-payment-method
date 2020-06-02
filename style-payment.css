@@ -1,0 +1,222 @@
+body {
+	font-family: sans-serif;
+	background-color: #F5F9FF;
+}
+
+.container {
+	width: 450px;
+	background-color: #FFF;
+	border: 1px solid #DDD;
+	margin: 20px;
+}
+.head {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0px 20px ;
+	margin-bottom: 10px;
+	color: #505050;
+	border-bottom: 1px solid #DDD;
+	font-size: 20px;
+}
+p {
+	font-weight: bolder;body {
+	font-family: sans-serif;
+	background-color: #F5F9FF;
+}
+
+.container {
+	width: 450px;
+	background-color: #FFF;
+	border: 1px solid #DDD;
+	margin: 20px;
+}
+.head {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0px 20px;
+	margin-bottom: 10px;
+	color: #505050;
+	border-bottom: 1px solid #DDD;
+	font-size: 20px;
+}
+p {
+	font-weight: bolder;
+}
+.icon {
+	font-size: 20px;
+}
+.item {
+	width: 70px;
+	height: 45px;
+	background-size: cover;
+	background-position: center;
+	border: 1.5px #8cb6f9 solid;
+	border-radius: 4px;
+	margin: 5px 0px 10px 10px;
+}
+.visa {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQMEgpW5Dym19GocAOnD1QpJgtPbtXBHbqYIzGB8rAtC0oidMa&usqp=CAU);
+}
+.master-card {
+	background-image: url(https://teheca.com/wp-content/uploads/2017/07/Linkedin_MC.jpg);
+	background-size: 79%;
+}
+
+.img {
+	display: flex;
+	padding: 0 10px;
+}
+.sub {
+	padding: 7px 20px;
+	margin-bottom: 10px;
+}
+label {
+	font-size: 15px;
+}
+input{
+	border: 1.5px solid #8cb6f9;
+	box-sizing: border-box;
+	border-radius: 3px;
+	height: 30px;
+
+}
+#fname {
+	 width: 100%;
+	 padding: 10px;
+	 font-size: 15px;
+}
+.wrap{
+	display: inline-grid;
+	grid-column-gap: 8px;
+	grid-template-columns: auto auto auto;
+	padding: 0px 20px;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+#card {
+	width: 253px;
+	padding: 10px;
+	font-size: 15px;
+}
+
+#date {
+	width: 70px;
+	padding: 10px;
+	 font-size: 15px;
+}
+
+#ccv {
+	width: 70px;
+	padding: 10px;
+	font-size: 15px;
+}
+.wrap-text {
+	display: flex;
+	font-size: 13px;
+	align-items: center;
+	color: #6494ec;
+}
+.text {
+	line-height: 18px;
+	padding-left: 5px;
+	color: #757575;
+}
+.icon1 {
+	font-size: 20px;
+}
+}
+.icon {
+	font-size: 20px;
+}
+.item {
+	width: 70px;
+	height: 45px;
+	background-size: cover;
+	background-position: center;
+	border: 1.5px #8cb6f9 solid;
+	border-radius: 4px;
+	margin: 5px 0px 10px 10px;
+}
+.visa {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQMEgpW5Dym19GocAOnD1QpJgtPbtXBHbqYIzGB8rAtC0oidMa&usqp=CAU);
+}
+.master-card {
+	background-image: url(https://teheca.com/wp-content/uploads/2017/07/Linkedin_MC.jpg);
+	background-size: 79%;
+}
+
+.img {
+	display: flex;
+	padding: 0 10px;
+}
+.sub {
+	padding: 7px 20px;
+	margin-bottom: 10px;
+}
+label {
+	font-size: 15px;
+}
+input{
+	border: 1.5px solid #8cb6f9;
+	box-sizing: border-box;
+	border-radius: 3px;
+	height: 30px;
+
+}
+#fname {
+	 width: 100%;
+	 padding: 10px;
+	 font-size: 15px
+}
+.wrap{
+	display: inline-grid;
+	grid-column-gap: 8px;
+	grid-template-columns: auto auto auto;
+	padding: 0px 20px;
+	width: 100%;
+	box-sizing: border-box;
+}
+.sub2{
+
+
+}
+#card {
+	width: 253px;
+	padding: 10px;
+	 font-size: 15px
+}
+.sub3{
+	
+
+}
+#date {
+	width: 70px;
+	padding: 10px;
+	 font-size: 15px
+}
+.sub4{
+	
+
+}
+#ccv {
+	width: 70px;
+	padding: 10px;
+	 font-size: 15px
+}
+.wrap-text {
+	display: flex;
+	font-size: 13px;
+	align-items: center;
+	color: #6494ec; 
+}
+.text {
+	line-height: 18px;
+	padding-left: 5px;
+	color: #757575;
+}
+.icon1 {
+	font-size: 20px;
+}
